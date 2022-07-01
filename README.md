@@ -1,5 +1,7 @@
 # EMV-Card ROCA-Keytest 
  
+**Original source: https://github.com/johnzweng/android-emv-key-test
+ 
 ### What's this?
 This is a simple Android app, which reads (NFC-enabled) EMV banking cards via NFC,
 tries to extract the **public** RSA keys (ICC, issuer and card-scheme CA),
